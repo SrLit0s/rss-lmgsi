@@ -11,5 +11,12 @@
             <description>Menudo rollo, yo quiero irme a mi casa.</description>
             <pubDate>Tue, 16 Dec 2025 07:30:00 UTC</pubDate>
         </item>
+        <item>
+            <title>Pedro Sanchez entra a la carcel</title>
+            <link>http://www.google.com</link>
+            <description>Ha robado demasiado.</description>
+            <pubDate>Tue, 16 Dec 2025 07:40:00 UTC</pubDate>
+        </item>
     </channel>
+
 </rss>
