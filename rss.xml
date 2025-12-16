@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rss SYSTEM "rss.dtd">
+<rss version="2.0">
+    <channel>
+        <title>Lenguaje de Marcas</title>
+        <link>http://www.google.com/</link>
+        <description>El blog de noticias de LMGSI</description>
+        <item>
+            <title>LMGSI la ultiama semana de clase</title>
+            <link>http://www.google.com</link>
+            <description>Menudo rollo, yo quiero irme a mi casa.</description>
+            <pubDate>Tue, 16 Dec 2025 07:30:00 UTC</pubDate>
+        </item>
+    </channel>
+</rss>
